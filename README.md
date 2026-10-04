@@ -18,4 +18,12 @@ Rabbit Holes durch Wikipedia, Reddit und das Web sollen als dauerhafte, navigier
 
 ## Status
 
-Das Projekt befindet sich in der Ideenphase. Die beschriebenen Funktionen sind geplant und noch nicht implementiert.
+Prototyp, pausiert. Es gibt eine Web-App (Vite, React, React Flow) mit Graph, Status offen/besucht, Notizen, Weg vom Ausgangsthema und Export/Import als JSON; gespeichert wird nur im localStorage des Browsers.
+
+Pausiert ist das Projekt, weil die Recherche automatisch im Hintergrund mitgeloggt werden soll und noch offen ist, wie (vermutlich per Browser-Erweiterung). Von Hand gepflegte Einträge sind nicht das Ziel.
+
+```
+npm install
+npm run dev     # Entwicklungsserver
+npm test        # Unit-Tests
+```
