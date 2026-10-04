@@ -22,7 +22,7 @@ Prototyp, pausiert. Es gibt eine Web-App (Vite, React, React Flow) mit Graph, St
 
 Pausiert ist das Projekt, weil die Recherche automatisch im Hintergrund mitgeloggt werden soll und noch offen ist, wie (vermutlich per Browser-Erweiterung). Von Hand gepflegte Einträge sind nicht das Ziel.
 
-```
+```sh
 npm install
 npm run dev     # Entwicklungsserver
 npm test        # Unit-Tests
